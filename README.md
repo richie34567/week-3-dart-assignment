@@ -1,1 +1,2 @@
 # week-3-dart-assignment
+HERE IS MY FINISHED ASSIGNMENT ON OOP PARADIGMS
